@@ -1,6 +1,5 @@
 ubuntu-xrdp-lxde
 ==
-
 Usage:
 ```
 docker build --tag ubuntu-xrdp-lxde .
